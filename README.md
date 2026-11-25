@@ -57,4 +57,26 @@ AI 进入计量实证有四条路：L1 帮你写代码，L2 陪你跑代码，L3
 
 
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/598Tr639EmMbB3mVMwbrFGIlusCicD2tLK3CbCJ7QeiaKsYCic6sQUiboWrYkicO6XW5WqA18vlAQF7mSEe351eVoYGuoV4z5PialorIpetvykHdA/640?wx_fmt=png&from=appmsg&watermark=1&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
+
+
+## 🎓 计量经济网
+
+- 10年间，计量经济网依托于微信公众平台等累积了计量经济学及Eviews、Stata、SPSS、Matlab、Geoda、Python、ArcGIS、R等相关方法及软件操作的优质资源，旨在为大家分享经管人文社科等领域的相关知识，希望能帮助读者更好的学习计量。
+- 📚 [计量经济网主页](https://www.aistata.cn) — 计量学术科研服务平台
+- 🔧 [AI 工具导航](https://www.aistata.cn/AITools/) — AI 工具集合，助你效率翻倍
+- 📈 [高级计量及Stata应用课程](https://www.aistata.cn/AITools/) — 2017-2026年，10年Stata经典课程
+
+---
+
+## 🌈❤️最新Stata课程--2017-2026年，数量经济学Stata课程已开设10年，10年Stata经典课程报名中！
+
+![](https://stata101.oss-cn-chengdu.aliyuncs.com/fig-metrics/Stata%E8%AF%BE%E7%A8%8B%E5%AE%A3%E4%BC%A0%E5%9B%BE%E7%89%87.png)
+
+
+
+
+
+## 💡 温馨提示
+
+> 更多资源，欢迎关注数量经济学微信公众号、计量经济网www.aistata.cn
+
